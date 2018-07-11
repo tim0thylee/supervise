@@ -1,0 +1,27 @@
+/* Navbar style */
+/* nav .brand-logo{
+    padding-left: 10px;
+    
+} */
+
+/* Slider style
+.slider .indicators{
+    bottom: 60px;
+    z-index:2;
+  
+} */
+
+.container {
+    height: 100vh;
+  }
+  
+  #leftSide, #rightSide {
+    margin-top: 25vh;
+  }
+  
+  h4 {
+    margin-left: 10vh;
+    color: white;
+  }
+  
+  

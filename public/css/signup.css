@@ -1,0 +1,27 @@
+/* html {
+    height: 100px;
+    width: 500px;
+    background-color: powderblue;
+} */
+
+h4 {
+  color: white;
+  }
+
+/* #leftSide, rightSide {
+  height: 100vh;
+} */
+
+#signup {
+  width: 350px;
+}
+
+#rightSide {
+  margin-top: 100px;
+}
+
+
+#leftSide {
+  margin-top: 150px;
+}
+

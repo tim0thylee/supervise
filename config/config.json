@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "supervise_db",
+    "host": "us-cdbr-iron-east-05.cleardb.net",
+    "port":3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "supervise_db",
+    "host": "us-cdbr-iron-east-05.cleardb.net",
+    "port":3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "supervise_db",
+    "host": "us-cdbr-iron-east-05.cleardb.net",
+    "port":3306,
+    "dialect": "mysql"
+  }
+}

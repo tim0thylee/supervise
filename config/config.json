@@ -1,11 +1,10 @@
 
-
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "supervise_db",
-    "host": "127.0.0.1",
+    "username": "bd5aff4807d4b7",
+    "password": "c8bef019",
+    "database": "heroku_e21df1c92404d08",
+    "host": "us-cdbr-iron-east-05.cleardb.net",
     "port":3306,
     "dialect": "mysql"
   },
@@ -18,10 +17,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "root",
-    "database": "supervise_db",
-    "host": "127.0.0.1",
+    "username": "bd5aff4807d4b7",
+    "password": "c8bef019",
+    "database": "heroku_e21df1c92404d08",
+    "host": "us-cdbr-iron-east-05.cleardb.net",
     "port":3306,
     "dialect": "mysql"
   }

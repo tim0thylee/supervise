@@ -11,7 +11,7 @@ var path = require("path");
 // =============================================================
 module.exports = function(app) {
 
- 
+//  mysql://bd5aff4807d4b7:c8bef019@us-cdbr-iron-east-05.cleardb.net/heroku_e21df1c92404d08?reconnect=true
 
   app.get("/", function(req, res) {
     res.sendFile(path.join(__dirname, "../public/sale.html"));

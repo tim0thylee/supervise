@@ -1,6 +1,6 @@
 #Schema
 
-CREATE DATABASE supervise_db;
+CREATE DATABASE heroku_e21df1c92404d08;
 
-USE supervise_db
+USE heroku_e21df1c92404d08;
 

@@ -20,6 +20,8 @@ We perform air-tight Data Conversion services.
 We supply asset labels and barcode scanners and RFID readers.
 And when we’re done, you’ll have a customized system in place that will make all future physical inventory of fixed assets simple and accurate.
 
+[Click here for deployed project](https://supervise.herokuapp.com/sale)
+
 © SUPER-VISE 2018
 developers:
 

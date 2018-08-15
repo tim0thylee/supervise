@@ -1,4 +1,4 @@
-# SUPER-VISER
+# SUPER-VISE
 
 As this is project week, we have created a SUPER-VISE, a management app that would track, manage, and scale your company
 
